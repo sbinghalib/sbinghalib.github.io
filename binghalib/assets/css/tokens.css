@@ -1,4 +1,4 @@
-/* Typography: Outfit (OFL) for headings, UI and body. Bauhaus is the logo typeface only and ships as artwork, not a webfont. Poppins (OFL) is kept as fallback / comparison. */
+/* Typography: Inter Tight (OFL) for headings and display, Inter (OFL) for body and UI. Bauhaus is the logo typeface only and ships as artwork, not a webfont. Poppins (OFL) is kept as a fallback for existing print templates. */
 /* Binghalib design tokens — colours sampled from the April 2025 Group Profile (PDF). CMYK/Pantone not supplied: TO CONFIRM with brand owner. */
 @font-face{font-family:"Poppins";src:url(../fonts/Poppins-Light.ttf) format("truetype");font-weight:300;font-display:swap}
 @font-face{font-family:"Poppins";src:url(../fonts/Poppins-Regular.ttf) format("truetype");font-weight:400;font-display:swap}
@@ -6,8 +6,10 @@
 @font-face{font-family:"Poppins";src:url(../fonts/Poppins-SemiBold.ttf) format("truetype");font-weight:600;font-display:swap}
 @font-face{font-family:"Poppins";src:url(../fonts/Poppins-Bold.ttf) format("truetype");font-weight:700;font-display:swap}
 @font-face{font-family:"Poppins";src:url(../fonts/Poppins-ExtraBold.ttf) format("truetype");font-weight:800;font-display:swap}
-@font-face{font-family:"Outfit";src:url(../fonts/Outfit-Variable.woff2) format("woff2-variations"),url(../fonts/Outfit-Variable.woff2) format("woff2");font-weight:100 900;font-display:swap}
-@font-face{font-family:"Jost";src:url(../fonts/Jost-Variable.woff2) format("woff2");font-weight:100 900;font-display:swap}
+@font-face{font-family:"Inter Tight";src:url(../fonts/InterTight-Variable-latin-ext.woff2) format("woff2");font-weight:100 900;font-style:normal;font-display:swap;unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF}
+@font-face{font-family:"Inter Tight";src:url(../fonts/InterTight-Variable-latin.woff2) format("woff2");font-weight:100 900;font-style:normal;font-display:swap;unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD}
+@font-face{font-family:"Inter";src:url(../fonts/Inter-Variable-latin-ext.woff2) format("woff2");font-weight:100 900;font-style:normal;font-display:swap;unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF}
+@font-face{font-family:"Inter";src:url(../fonts/Inter-Variable-latin.woff2) format("woff2");font-weight:100 900;font-style:normal;font-display:swap;unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD}
 @font-face{font-family:"Tajawal";src:url(../fonts/Tajawal-Medium.ttf) format("truetype");font-weight:500;font-display:swap}
 @font-face{font-family:"Tajawal";src:url(../fonts/Tajawal-Bold.ttf) format("truetype");font-weight:700;font-display:swap}
 :root{
@@ -15,7 +17,7 @@
   --bg-red:#E30613; --bg-red-80:#B5050F; --bg-red-10:#FDE3E5;
   --div-manufacturing:#F2A33B; --div-engineering:#038D66; --div-trading:#0072B0; --div-services:#BEAE92;
   --steel-70:#706F6F; --steel-30:#D4D5D1; --steel-10:#E7E7E7; --snow:#FAFAFA; --white:#FFFFFF; --ink:#1D1D1B;
-  --font-display:"Outfit","Poppins",system-ui,sans-serif; --font-text:"Outfit","Poppins",system-ui,sans-serif; --font-logo:"ITC Bauhaus","Bauhaus" /* logo artwork only, never live text */; --font-arabic:"Tajawal","Noto Kufi Arabic",Tahoma,sans-serif;
+  --font-display:"Inter Tight","Inter",system-ui,sans-serif; --font-text:"Inter",system-ui,sans-serif; --font-logo:"ITC Bauhaus","Bauhaus" /* logo artwork only, never live text */; --font-arabic:"Tajawal","Noto Kufi Arabic",Tahoma,sans-serif;
   --radius-sm:8px; --radius-md:12px; --radius-lg:16px; --radius-xl:24px;
   --shadow-1:0 1px 2px rgba(22,17,63,.06),0 1px 1px rgba(22,17,63,.04);
   --shadow-2:0 4px 12px rgba(22,17,63,.08),0 1px 3px rgba(22,17,63,.06);
