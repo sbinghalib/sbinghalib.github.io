@@ -56,19 +56,19 @@ Each company has a human page at `/brands/<slug>.html`. Colours marked "approx."
 ## VBG Intech
 - Slug: `vbg-intech` · Domain: Manufacturing · Since 2012 · Web: vbgintech.com
 - Brand type: endorsed; own mark + "A member of Binghalib Group of Companies" (proposed)
-- Logo files: `/assets/logos/vbg-intech.png`, `/assets/logos/brands/vbg-intech-one-colour.svg`
-- Colours: VBG Orange #EA5B0B ("intech." panel, "VBG" letters); VBG Orange (light) #EC6608 (Box fill on the back-cover version); White #FFFFFF ("VBG" panel, "intech." letters, approx.)
+- Logo files: `/assets/logos/brands/vbg-intech.svg`, `/assets/logos/vbg-intech.png`, `/assets/logos/brands/vbg-intech-one-colour.svg`
+- Colours: VBG Orange #EA5B0B ("intech." panel, "VBG" letters); VBG Orange (light) #EC6608 (Box fill on the back-cover version); White #FFFFFF ("VBG" panel, "intech." letters (unfilled: the white background shows through))
 - What it does: Designs and manufactures control valves for general and severe service: superheated steam, high differential pressure, volatile and corrosive substances, erosive conditions and slurry. It also offers solutions for cavitation and high noise.
-- TBC: The colour logo appears in the catalogue only as a low-resolution raster (404 px wide). The only vector version is the one-colour outline on the cover. Ask for the master artwork.
+- TBC: The colour logo on the company page (p.38) is a low-resolution raster (404 px wide), but the back cover (p.44) carries it as vector paths. The SVG here is rebuilt from those paths. The "VBG" panel is unfilled in the artwork, so the logo must sit on white. Ask for the master artwork before print.
 - TBC: The previous hub value #E85E14 was sampled from the raster. The vector artwork gives #EA5B0B.
 
 ## Intech
 - Slug: `intech` · Domain: Manufacturing · Since 2016 · Web: TBC
 - Brand type: endorsed; own mark + "A member of Binghalib Group of Companies" (proposed)
-- Logo files: `/assets/logos/intech.png`
-- Colours: Intech Red #E4183C (Panel behind "intech.", approx.); White #FFFFFF ("intech." letters, approx.)
+- Logo files: `/assets/logos/brands/intech.svg`, `/assets/logos/intech.png`
+- Colours: Intech Red #E51843 (Panel behind "intech."); White #FFFFFF ("intech." letters)
 - What it does: Machining and precision engineering: a CNC and 5-axis metal-working shop that supports VBG valve production.
-- TBC: The only logo source is a small raster on the timeline page (p.3). Ask for the master artwork.
+- TBC: The only logo source is the small mark on the timeline page (p.3). It is vector there, so the SVG here is rebuilt from those paths, but it is printed only 45 pt wide. Ask for the master artwork.
 - TBC: Website not confirmed.
 
 ## SYSCOM
@@ -93,7 +93,7 @@ Each company has a human page at `/brands/<slug>.html`. Colours marked "approx."
 - Colours: Marshall Navy #242454 ("Marshall", arcs, approx.); Marshall Red #90180C (Swoosh, "RADIO TELEMETRY", approx.)
 - What it does: Two-way wireless communications. The catalogue describes a "UAE based company with facilities in United States of America and Great Britain", specialising in location tracking and secure data transfer over distances, with experience in the oil, defence and consumer markets.
 - TBC: Relationship to be confirmed. Marshall Radio Telemetry is also a US company (Utah). Whether the group owns, licenses or distributes the brand is unknown.
-- TBC: The logo is raster only in the catalogue, and its colours are approximate samples. Website not confirmed.
+- TBC: The logo is raster only in the catalogue (328 × 60 px of artwork, embedded on p.22), and its colours are approximate samples. The PNG here is that embedded image, trimmed, at its native size. Website not confirmed.
 
 ## Marshall Intech
 - Slug: `marshall-intech` · Domain: Engineering · Since 2021 · Web: TBC
@@ -101,7 +101,7 @@ Each company has a human page at `/brands/<slug>.html`. Colours marked "approx."
 - Logo files: `/assets/logos/marshall-intech.png`
 - Colours: Marshall Navy #242454 ("intech." panel, "Marshall", approx.); White #FFFFFF ("intech." letters, approx.)
 - What it does: Satellite communication. The catalogue says "Marshall Intech developed & launched the UAE's first privately owned satellite". Public sources identify it as GhalibSat, launched in June 2021 for wildlife tracking.
-- TBC: The logo is raster only in the catalogue, and its colours are approximate samples. Website not confirmed.
+- TBC: The logo is raster only in the catalogue (277 × 41 px, embedded on p.23), and its colours are approximate samples. The PNG here is that embedded image at its native size. It is too small for print: ask for the master artwork. Website not confirmed.
 
 ## Majid Electro Mechanical (MEM)
 - Slug: `majid-mem` · Domain: Trading · Since 2008 · Web: mem.ae
@@ -133,6 +133,6 @@ Each company has a human page at `/brands/<slug>.html`. Colours marked "approx."
 
 
 ## Rules for every company
-- Logos sit on a white panel. No reversed versions are supplied (TBC).
-- Text is set in Outfit. Logo lettering is artwork and is never retyped.
+- Logos sit directly on white (or a plain white panel on dark or busy backgrounds). Never add a coloured frame, tinted box or shadow. No reversed versions are supplied (TBC).
+- Headings are set in Inter Tight and text in Inter. No company has a separately documented text typeface. Logo lettering is artwork and is never retyped.
 - A company palette is used only for that company.

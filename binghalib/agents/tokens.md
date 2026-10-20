@@ -7,14 +7,14 @@ Rules that always apply: https://sbinghalib.github.io/binghalib/AGENTS.md
 Source file: `/assets/css/tokens.css`. Load it before your own CSS. Fonts are declared in the same file.
 
 ```css
-/* Typography: Outfit (OFL) for headings, UI and body. Bauhaus is the logo typeface only and ships as artwork, not a webfont. Poppins (OFL) is kept as fallback / comparison. */
+/* Typography: Inter Tight (OFL) for headings and display, Inter (OFL) for body and UI. Bauhaus is the logo typeface only and ships as artwork, not a webfont. Poppins (OFL) is kept as a fallback for existing print templates. */
 /* Binghalib design tokens — colours sampled from the April 2025 Group Profile (PDF). CMYK/Pantone not supplied: TO CONFIRM with brand owner. */
 :root{
   --bg-indigo:#312783; --bg-indigo-90:#231C63; --bg-indigo-95:#16113F; --bg-indigo-70:#4A41A0; --bg-indigo-50:#7A73C0; --bg-indigo-30:#B3AEDC; --bg-indigo-10:#E6E4F4; --bg-indigo-05:#F3F2FA;
   --bg-red:#E30613; --bg-red-80:#B5050F; --bg-red-10:#FDE3E5;
   --div-manufacturing:#F2A33B; --div-engineering:#038D66; --div-trading:#0072B0; --div-services:#BEAE92;
   --steel-70:#706F6F; --steel-30:#D4D5D1; --steel-10:#E7E7E7; --snow:#FAFAFA; --white:#FFFFFF; --ink:#1D1D1B;
-  --font-display:"Outfit","Poppins",system-ui,sans-serif; --font-text:"Outfit","Poppins",system-ui,sans-serif; --font-logo:"ITC Bauhaus","Bauhaus" /* logo artwork only, never live text */; --font-arabic:"Tajawal","Noto Kufi Arabic",Tahoma,sans-serif;
+  --font-display:"Inter Tight","Inter",system-ui,sans-serif; --font-text:"Inter",system-ui,sans-serif; --font-logo:"ITC Bauhaus","Bauhaus" /* logo artwork only, never live text */; --font-arabic:"Tajawal","Noto Kufi Arabic",Tahoma,sans-serif;
   --radius-sm:8px; --radius-md:12px; --radius-lg:16px; --radius-xl:24px;
   --shadow-1:0 1px 2px rgba(22,17,63,.06),0 1px 1px rgba(22,17,63,.04);
   --shadow-2:0 4px 12px rgba(22,17,63,.08),0 1px 3px rgba(22,17,63,.06);
@@ -35,7 +35,7 @@ Sub-brand accents (use them only on that company's material):
 /* TAMCO */ --brand-tamco: #E30613;
 /* Rolli */ --brand-rolli: #009FE3;
 /* VBG Intech */ --brand-vbg-intech: #EA5B0B;
-/* Intech */ --brand-intech: #E4183C;
+/* Intech */ --brand-intech: #E51843;
 /* SYSCOM */ --brand-syscom: #302F82;
 /* BMS */ --brand-bms-btech: #E30613;
 /* Marshall */ --brand-marshall-radio-telemetry: #242454;

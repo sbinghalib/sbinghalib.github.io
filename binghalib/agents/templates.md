@@ -10,4 +10,4 @@ None of these files exist yet. They are placeholders:
 - Business card [placeholder]
 - Email signature, one per company [placeholder]
 
-Until templates exist, use white pages, Indigo headings in Outfit, the group lockup top-left and Red as a thin accent rule only.
+Until templates exist, use white pages, Indigo headings in Inter Tight, body text in Inter, the group lockup top-left and Red as a thin accent rule only.

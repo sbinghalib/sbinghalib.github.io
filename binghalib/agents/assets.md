@@ -12,7 +12,8 @@ All paths are relative to https://sbinghalib.github.io/binghalib/
 - `/assets/logos/binghalib-emblem.svg`, `.png`
 - `/assets/downloads/binghalib-brand-kit.zip` (everything)
 - `/binghalib-logos.zip` (16 company PNGs)
-- `/assets/fonts/Outfit-Variable.woff2` (+ `OFL-Outfit.txt`)
+- `/assets/fonts/InterTight-Variable-latin.woff2`, `InterTight-Variable-latin-ext.woff2` (+ `OFL-InterTight.txt`)
+- `/assets/fonts/Inter-Variable-latin.woff2`, `Inter-Variable-latin-ext.woff2` (+ `OFL-Inter.txt`)
 - `/assets/css/tokens.css`
 - Binghalib Engineering Enterprises: `/assets/logos/brands/binghalib-engineering.svg`, `/assets/logos/binghalib-engineering.png`
 - Binghalib Engineering Qatar: `/assets/logos/brands/binghalib-engineering-qatar.svg`, `/assets/logos/binghalib-engineering-qatar.png`
@@ -20,8 +21,8 @@ All paths are relative to https://sbinghalib.github.io/binghalib/
 - Binghalib Technology: `/assets/logos/brands/binghalib-technology.svg`, `/assets/logos/binghalib-technology.png`
 - TAMCO Windows + Doors: `/assets/logos/brands/tamco.svg`, `/assets/logos/stamco.png`
 - Rolli International: `/assets/logos/brands/rolli.svg`, `/assets/logos/rolli.png`
-- VBG Intech: `/assets/logos/vbg-intech.png`, `/assets/logos/brands/vbg-intech-one-colour.svg`
-- Intech: `/assets/logos/intech.png`
+- VBG Intech: `/assets/logos/brands/vbg-intech.svg`, `/assets/logos/vbg-intech.png`, `/assets/logos/brands/vbg-intech-one-colour.svg`
+- Intech: `/assets/logos/brands/intech.svg`, `/assets/logos/intech.png`
 - SYSCOM: `/assets/logos/brands/syscom.svg`, `/assets/logos/syscom.png`
 - BMS · Btech: `/assets/logos/brands/bms-btech.svg`, `/assets/logos/bms-btech.png`
 - Marshall Radio Telemetry: `/assets/logos/marshall-radio-telemetry.png`
