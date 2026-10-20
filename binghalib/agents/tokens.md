@@ -38,8 +38,8 @@ Sub-brand accents (use them only on that company's material):
 /* Intech */ --brand-intech: #E51843;
 /* SYSCOM */ --brand-syscom: #302F82;
 /* BMS */ --brand-bms-btech: #E30613;
-/* Marshall */ --brand-marshall-radio-telemetry: #242454;
-/* Marshall Intech */ --brand-marshall-intech: #242454;
+/* Marshall */ --brand-marshall-radio-telemetry: #00256B;
+/* Marshall Intech */ --brand-marshall-intech: #00256B;
 /* MEM */ --brand-majid-mem: #312783;
 /* AlphaTech */ --brand-alphatech: #00A99C;
 /* AlphaTech Calibration */ --brand-alphatech-calibration: #E30613;

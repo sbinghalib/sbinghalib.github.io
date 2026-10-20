@@ -25,8 +25,8 @@ All paths are relative to https://sbinghalib.github.io/binghalib/
 - Intech: `/assets/logos/brands/intech.svg`, `/assets/logos/intech.png`
 - SYSCOM: `/assets/logos/brands/syscom.svg`, `/assets/logos/syscom.png`
 - BMS · Btech: `/assets/logos/brands/bms-btech.svg`, `/assets/logos/bms-btech.png`
-- Marshall Radio Telemetry: `/assets/logos/marshall-radio-telemetry.png`
-- Marshall Intech: `/assets/logos/marshall-intech.png`
+- Marshall Radio Telemetry: `/assets/logos/brands/marshall-radio-telemetry.svg`, `/assets/logos/marshall-radio-telemetry.png`
+- Marshall Intech: `/assets/logos/brands/marshall-intech.svg`, `/assets/logos/marshall-intech.png`
 - Majid Electro Mechanical (MEM): `/assets/logos/brands/majid-mem.svg`, `/assets/logos/majid-mem.png`
 - AlphaTech: `/assets/logos/brands/alphatech.svg`, `/assets/logos/alphatech.png`
 - AlphaTech Calibration Laboratory: `/assets/logos/brands/alphatech-calibration.svg`, `/assets/logos/alphatech-calibration.png`
