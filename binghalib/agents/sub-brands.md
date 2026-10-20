@@ -89,19 +89,21 @@ Each company has a human page at `/brands/<slug>.html`. Colours marked "approx."
 ## Marshall Radio Telemetry
 - Slug: `marshall-radio-telemetry` · Domain: Engineering · Since 2013 · Web: TBC
 - Brand type: endorsed; own mark + "A member of Binghalib Group of Companies" (proposed)
-- Logo files: `/assets/logos/marshall-radio-telemetry.png`
-- Colours: Marshall Navy #242454 ("Marshall", arcs, approx.); Marshall Red #90180C (Swoosh, "RADIO TELEMETRY", approx.)
+- Logo files: `/assets/logos/brands/marshall-radio-telemetry.svg`, `/assets/logos/marshall-radio-telemetry.png`
+- Colours: Marshall Navy #00256B ("Marshall", arcs, approx.); Marshall Red #90230C (Orbit, "RADIO TELEMETRY", approx.)
 - What it does: Two-way wireless communications. The catalogue describes a "UAE based company with facilities in United States of America and Great Britain", specialising in location tracking and secure data transfer over distances, with experience in the oil, defence and consumer markets.
 - TBC: Relationship to be confirmed. Marshall Radio Telemetry is also a US company (Utah). Whether the group owns, licenses or distributes the brand is unknown.
-- TBC: The logo is raster only in the catalogue (328 × 60 px of artwork, embedded on p.22), and its colours are approximate samples. The PNG here is that embedded image, trimmed, at its native size. Website not confirmed.
+- TBC: The logo here is a vector reconstruction from catalogue artwork — replace with master file when available. The catalogue only has a 328 × 60 px image (p.22), so the SVG was rebuilt from the 1877 × 337 px logo image in the manufacturer's Micro transmitter manual (marshallradio.com). It matches that image to within about half a pixel at 1877 px wide. "RADIO TELEMETRY" is set in a close Helvetica-style italic, not the original font file. Ask for the master artwork before print.
+- TBC: Colours are sampled from the manufacturer's logo image (consistent across its manuals). The catalogue prints them duller (#242D59 / #971D17). Website not confirmed.
 
 ## Marshall Intech
 - Slug: `marshall-intech` · Domain: Engineering · Since 2021 · Web: TBC
 - Brand type: endorsed; own mark + "A member of Binghalib Group of Companies" (proposed)
-- Logo files: `/assets/logos/marshall-intech.png`
-- Colours: Marshall Navy #242454 ("intech." panel, "Marshall", approx.); White #FFFFFF ("intech." letters, approx.)
+- Logo files: `/assets/logos/brands/marshall-intech.svg`, `/assets/logos/marshall-intech.png`
+- Colours: Marshall Navy #00256B ("intech." panel, keyline, "Marshall", approx.); White #FFFFFF (Panel behind "Marshall", "intech." letters, approx.)
 - What it does: Satellite communication. The catalogue says "Marshall Intech developed & launched the UAE's first privately owned satellite". Public sources identify it as GhalibSat, launched in June 2021 for wildlife tracking.
-- TBC: The logo is raster only in the catalogue (277 × 41 px, embedded on p.23), and its colours are approximate samples. The PNG here is that embedded image at its native size. It is too small for print: ask for the master artwork. Website not confirmed.
+- TBC: The logo here is a vector reconstruction from catalogue artwork — replace with master file when available. The catalogue only has a 277 × 41 px image (p.23), which is too small to show detail, so the parts were taken from sharper sources and fitted to it. The white panel behind "Marshall" is transparent in the catalogue image; it is filled white here so the logo works on any background. Ask for the master artwork before print.
+- TBC: The navy is taken as the same Marshall Navy as Marshall Radio Telemetry (#00256B). The catalogue image samples as #272F5D, and the catalogue prints Marshall Radio Telemetry's #00256B equally dull (#242D59). Website not confirmed.
 
 ## Majid Electro Mechanical (MEM)
 - Slug: `majid-mem` · Domain: Trading · Since 2008 · Web: mem.ae
